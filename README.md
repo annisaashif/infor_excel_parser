@@ -8,7 +8,7 @@ Implementasi aplikasi ini berhasil mengeliminasi pekerjaan pemindahan data manua
 ---
 
 ## 📸 Tampilan Aplikasi
-<img width="1193" height="751" alt="image" src="https://github.com/user-attachments/assets/fb905f5b-0fab-4922-bce0-3b8691735d10" />
+<img width="1194" height="733" alt="image" src="https://github.com/user-attachments/assets/2274ea4c-6145-47f5-9ee4-f0e0d5816f7b" />
 <img width="884" height="896" alt="image" src="https://github.com/user-attachments/assets/d74aa081-0f28-4614-af6d-cdd12335cd0e" />
 <img width="1105" height="581" alt="image" src="https://github.com/user-attachments/assets/ead9fc2a-71f9-46bb-87e2-ab996da13a32" />
 
