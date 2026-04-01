@@ -1,0 +1,20 @@
+# 1. Virtual Environment
+.venv/
+venv/
+env/
+
+# 2. Python Cache
+__pycache__/
+*.pyc
+
+# 3. Build & Executables
+build/
+dist/
+*.spec
+
+# 4. Data & Percobaan (Agar tidak mengganggu)
+main*.py
+index.py
+revisi-layout.*
+*.xlsx
+*.xls
