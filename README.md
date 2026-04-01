@@ -10,7 +10,9 @@ Implementasi aplikasi ini berhasil mengeliminasi pekerjaan pemindahan data manua
 ## 📸 Tampilan Aplikasi
 <img width="1194" height="733" alt="image" src="https://github.com/user-attachments/assets/2274ea4c-6145-47f5-9ee4-f0e0d5816f7b" />
 <img width="1049" height="903" alt="image" src="https://github.com/user-attachments/assets/26ede5bd-3de2-4f95-b627-eaec41f8a92d" />
-<img width="1105" height="581" alt="image" src="https://github.com/user-attachments/assets/ead9fc2a-71f9-46bb-87e2-ab996da13a32" />
+<img width="1048" height="623" alt="image" src="https://github.com/user-attachments/assets/9377f2f0-034f-4791-9340-7c10a0dabbe1" />
+<img width="1205" height="469" alt="image" src="https://github.com/user-attachments/assets/23316fb8-6608-4957-ae5c-238a5f9ab22b" />
+
 
 ## ✨ Fitur Utama
 - **Automated Data Parsing:** Mengonversi data tabular dari Excel (.xlsx) menjadi struktur direktori dan spesifik file teks (9 file per *Lot*) secara instan.
